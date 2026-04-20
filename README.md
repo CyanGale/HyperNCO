@@ -58,17 +58,7 @@ In addition, we have provided some experiments in the `test/` folder
 ### Hypergraph Max‑k‑cut Results
 ![alt text](pictures/maxkcut.png)
 
-### Effectiveness of Gini Coefficient‑based Annealing Strategy (Max‑Cut)
-![alt text](pictures/MaxCut_HighVisibility_WithFrame.pdf)
 
-### Effectiveness of Annealing Strategy (Graph Partitioning)
-![alt text](pictures/1111.pdf)
-
-### Runtime: GPU‑accelerated Algorithm vs Trivial Traversal
-![alt text](pictures/TimeEfficiency_Aligned.pdf)
-
-### Runtime & VRAM Comparison among HyperGNN Models
-![alt text](pictures/HighContrast_Comparison.pdf)
 
 
 
